@@ -21,4 +21,11 @@ Description:</h2> <p>This is a password generator for the javascript challenge p
     <p>Leave space between the criteria selected.<br/>
 Duplicated values are not allowed.<br/>
 Incorrect criteria will cause application to restart.<br/>
-If you wish to exit the application, please close the browser tab.</p>
+If you wish to exit the application, please close the browser tab.<br/></p><br/>
+<img src="assets/images/enter_criteria.png" ><h3>Read the lenght rules. That is from 8-128 characters. E.g 20.</h3><br/>
+<img src="assets/images/enter_length.png" >
+<h3>Enter the desired lenght</h3><img src="assets/images/enter_length_int.png" >
+<h3>Lenght selected confirmation</h3>
+<img src="assets/images/enter_length_int_conf.png" >
+<h3>End result - test of 8 performed. Copy and paste you password. Note that you cannot type once the password has been provided for security.</h3>
+<img src="assets/images/criteria_2_generated_pw.png" >
